@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup as soup
 from datetime import datetime
 import re
 
-from quickstart import retrieve_values_as_dataframe
+from app.utilities.quickstart import retrieve_values_as_dataframe
 import spacy
 nlp = spacy.load('en_core_web_sm')
 
