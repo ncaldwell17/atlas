@@ -4,6 +4,9 @@
       <w>dataframe</w>
       <w>geotag</w>
       <w>gpes</w>
+      <w>lstm</w>
+      <w>scatterplot</w>
+      <w>summarization</w>
     </words>
   </dictionary>
 </component>
